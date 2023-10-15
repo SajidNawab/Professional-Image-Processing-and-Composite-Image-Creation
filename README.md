@@ -1,4 +1,4 @@
-# backgroundImageRemoving
+# Professional Image Processing and Composite Image Creation
 # Developed a robust image processing solution enabling the removal of green screen backgrounds and creating professional-quality composite images. Demonstrated creativity and technical proficiency in image manipulation techniques.
 
 # Key Skills Demonstrated:
